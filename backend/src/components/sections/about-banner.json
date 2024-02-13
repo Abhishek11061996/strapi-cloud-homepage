@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_sections_about_banners",
+  "info": {
+    "displayName": "aboutBanner",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titleAbout": {
+      "type": "string",
+      "required": true
+    },
+    "descriptionAbout": {
+      "type": "string",
+      "required": true
+    },
+    "picture": {
+      "type": "media",
+      "multiple": true,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "details1": {
+      "type": "text"
+    },
+    "details2": {
+      "type": "string"
+    },
+    "details3": {
+      "type": "string"
+    },
+    "cooName": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    }
+  }
+}

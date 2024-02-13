@@ -1,0 +1,26 @@
+
+{
+    "kind": "collectionType",
+    "collectionName": "documents",
+    "info": {
+      "singularName": "document",
+      "pluralName": "documents",
+      "displayName": "document",
+      "name": "document"
+    },
+    "options": {
+      "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+      "name": {
+        "type": "string"
+      },
+      "description": {
+        "type": "richtext"
+      },
+      "locked": {
+        "type": "boolean"
+      }
+    }
+  }

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_customer_stories",
+  "info": {
+    "displayName": "customerStories"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "stories": {
+      "type": "string"
+    },
+    "customerName": {
+      "type": "string"
+    }
+  }
+}

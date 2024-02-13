@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_sections_expertise",
+  "info": {
+    "displayName": "expertise",
+    "icon": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "picture": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

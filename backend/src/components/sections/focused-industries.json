@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_focused_industries",
+  "info": {
+    "displayName": "focusedIndustries"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
